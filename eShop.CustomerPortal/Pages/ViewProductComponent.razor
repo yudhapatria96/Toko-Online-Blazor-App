@@ -1,0 +1,33 @@
+﻿@page "/product/{id:int}"
+
+@inject IViewProductUseCase viewProductUseCase
+
+<h3>Product Details</h3>
+
+<div class="card" style="width: 28rem;">
+    <div class="card-body">
+        <img src="@product.LinkImage" />
+        <h5 class="card-title">@product.NamaProduk</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@product.Brand</h6>
+        <hr />
+        <p>
+            Price: <label style="color:darkred">@product.Harga.ToString("c")</label>
+        </p>
+    </div>
+</div>
+<br />
+<NavLink href="products">Back to Products</NavLink>
+
+@code { private Product product;
+
+            [Parameter]
+            public int Id { get; set; }
+
+            protected override void OnParametersSet()
+            {
+                base.OnParametersSet();
+
+                if (Id > 0)
+                    product = viewProductUseCase.Execute(Id);
+
+            } }

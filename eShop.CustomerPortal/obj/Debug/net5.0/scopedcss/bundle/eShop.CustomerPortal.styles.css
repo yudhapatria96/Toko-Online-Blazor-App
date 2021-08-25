@@ -1,0 +1,9 @@
+@import '_content/eShop.Common/eShop.Common.bundle.scp.css';
+
+/* _content/eShop.CustomerPortal/Component1.razor.rz.scp.css */
+.my-component[b-5fu4na6qvu] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}

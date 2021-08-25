@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eShop.DataStore.HardCoded/1.0.0": {
+        "dependencies": {
+          "eShop.CoreBusiness": "1.0.0",
+          "eShop.UseCase": "1.0.0"
+        },
+        "runtime": {
+          "eShop.DataStore.HardCoded.dll": {}
+        }
+      },
+      "eShop.CoreBusiness/1.0.0": {
+        "runtime": {
+          "eShop.CoreBusiness.dll": {}
+        }
+      },
+      "eShop.UseCase/1.0.0": {
+        "dependencies": {
+          "eShop.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "eShop.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShop.DataStore.HardCoded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShop.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShop.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

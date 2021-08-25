@@ -1,0 +1,15 @@
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\eShop.UseCase.deps.json
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\eShop.UseCase.dll
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\ref\eShop.UseCase.dll
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\eShop.UseCase.pdb
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\eShop.CoreBusiness.dll
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.csproj.AssemblyReference.cache
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.AssemblyInfoInputs.cache
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.AssemblyInfo.cs
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.csproj.CopyComplete
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.dll
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\ref\eShop.UseCase.dll
+C:\Users\yudha\source\repos\eShop\eShop.UseCase\obj\Debug\net5.0\eShop.UseCase.pdb

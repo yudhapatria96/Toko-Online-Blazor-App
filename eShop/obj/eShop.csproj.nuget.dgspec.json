@@ -1,0 +1,405 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop\\eShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj",
+        "projectName": "eShop.Common",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "projectName": "eShop.CoreBusiness",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\eShop.CustomerPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\eShop.CustomerPortal.csproj",
+        "projectName": "eShop.CustomerPortal",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\eShop.CustomerPortal.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+        "projectName": "eShop.DataStore.HardCoded",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj",
+        "projectName": "eShop.UseCase",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yudha\\source\\repos\\eShop\\eShop\\eShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop\\eShop.csproj",
+        "projectName": "eShop",
+        "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop\\eShop.csproj",
+        "packagesPath": "C:\\Users\\yudha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.Common\\eShop.Common.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\eShop.CustomerPortal.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.CustomerPortal\\eShop.CustomerPortal.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj"
+              },
+              "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj": {
+                "projectPath": "C:\\Users\\yudha\\source\\repos\\eShop\\eShop.UseCase\\eShop.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.deps.json
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.dll
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\bin\Debug\net5.0\ref\eShop.CoreBusiness.dll
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.dll
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\ref\eShop.CoreBusiness.dll
+C:\Users\yudha\source\repos\eShop\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.pdb

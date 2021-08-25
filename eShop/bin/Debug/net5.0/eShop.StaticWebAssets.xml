@@ -1,0 +1,7 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\yudha\source\repos\eShop\eShop\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/eShop.Common" Path="C:\Users\yudha\source\repos\eShop\eShop.Common\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/eShop.Common" Path="C:\Users\yudha\source\repos\eShop\eShop.Common\wwwroot\" />
+  <ContentRoot BasePath="_content/eShop.CustomerPortal" Path="C:\Users\yudha\source\repos\eShop\eShop.CustomerPortal\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/eShop.CustomerPortal" Path="C:\Users\yudha\source\repos\eShop\eShop.CustomerPortal\wwwroot\" />
+</StaticWebAssets>
